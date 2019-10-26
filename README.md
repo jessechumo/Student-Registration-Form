@@ -1,3 +1,3 @@
 # Student-Registration-Form
-using html5,css,  js
-onchange select statements using javascript
+using html5,css,  js.
+Onchange select statements using javascript
