@@ -1,2 +1,3 @@
 #  Basic Student-Registration-Form
-Onchange select statements using javascript
+ A preview of **Onchange** select statements using javascript.
+ This is a single page form
