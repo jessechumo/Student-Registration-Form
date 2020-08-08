@@ -1,8 +1,8 @@
 
 function populate (s1,s2)
 {
-  let s1=document.getElementById('slct1');
-  let  s2=document.getElementById('slct2');
+  let s1=document.getElementById(s1);
+  let  s2=document.getElementById(s2);
  
   
    s2.innerHTML = "";
