@@ -52,8 +52,8 @@ function populate (s1,s2)
 
 function populated(c1,c2)
 {
-  var c1=document.getElementById('slct2');
-  var c2=document.getElementById('slct3');
+  var c1=document.getElementById(c1);
+  var c2=document.getElementById(c2);
  
     c2.innerHTML = "";
    if (c1.value == "nursing")
